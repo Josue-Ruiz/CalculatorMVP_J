@@ -1,8 +1,10 @@
-package com.example.calculator_mvp_j;
+package com.example.calculator_mvp_j.Views;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.example.calculator_mvp_j.R;
 
 public class MainActivity extends AppCompatActivity {
 

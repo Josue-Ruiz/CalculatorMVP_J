@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="placeholder_number">Número</string>
+    <string name="button_clear_second">Borrar</string>
+    <string name="register_numbers">No puede dejar campos vacios</string>
+</resources>
