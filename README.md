@@ -1,2 +1,2 @@
 # CalculatorMVP_J
-This is a calculator in java with the architecture MVP
+This is a calculator app in java with the architecture MVP
