@@ -1,23 +1,24 @@
 <resources>
     <string name="app_name">Calculator</string>
-    <string name="number_one" translatable="false">1</string>
     <string name="placeholder_number">Number</string>
+    <string name="message">you cannot add more than one point 😶</string>
+    <string name="button_clear_second">Remove</string>
+    <string name="register_numbers">Cannot leave empty fields</string>
     <string name="button_addition" translatable="false">+</string>
     <string name="button_subtraction" translatable="false">-</string>
     <string name="button_division" translatable="false">/</string>
     <string name="button_multiplication" translatable="false">*</string>
     <string name="button_equals" translatable="false">=</string>
     <string name="button_clear" translatable="false">C</string>
-    <string name="button_clear_second">Remove</string>
-    <string name="register_numbers">Cannot leave empty fields</string>
     <string name="dot" translatable="false">.</string>
     <string name="zero" translatable="false">0</string>
-    <string name="three" translatable="false">3</string>
+    <string name="one" translatable="false">1</string>
     <string name="two" translatable="false">2</string>
-    <string name="six" translatable="false">6</string>
-    <string name="five" translatable="false">5</string>
+    <string name="three" translatable="false">3</string>
     <string name="four" translatable="false">4</string>
-    <string name="nine" translatable="false">9</string>
-    <string name="eight" translatable="false">8</string>
+    <string name="five" translatable="false">5</string>
+    <string name="six" translatable="false">6</string>
     <string name="seven" translatable="false">7</string>
+    <string name="eight" translatable="false">8</string>
+    <string name="nine" translatable="false">9</string>
 </resources>

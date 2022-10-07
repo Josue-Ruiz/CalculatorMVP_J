@@ -199,7 +199,7 @@
         android:id="@+id/buttonOne"
         android:layout_width="0dp"
         android:layout_height="0dp"
-        android:text="@string/number_one"
+        android:text="@string/one"
         app:layout_constraintBottom_toTopOf="@+id/guideline9"
         app:layout_constraintEnd_toStartOf="@+id/guideline2"
         app:layout_constraintStart_toStartOf="parent"
@@ -238,7 +238,7 @@
         app:layout_constraintVertical_bias="1.0" />
 
     <Button
-        android:id="@+id/buttonPoint"
+        android:id="@+id/button_dot"
         android:layout_width="0dp"
         android:layout_height="0dp"
         android:text="@string/dot"
@@ -248,11 +248,12 @@
         app:layout_constraintTop_toTopOf="@+id/guideline9" />
 
     <TextView
-        android:id="@+id/textViewResult"
+        android:id="@+id/tv_Result"
         android:layout_width="0dp"
         android:layout_height="100dp"
         android:hint="@string/zero"
         android:textAlignment="viewEnd"
+        android:textColorHint="#78909C"
         app:layout_constraintBottom_toTopOf="@+id/guideline5"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"

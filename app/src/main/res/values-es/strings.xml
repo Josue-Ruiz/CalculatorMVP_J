@@ -4,4 +4,5 @@
     <string name="placeholder_number">Número</string>
     <string name="button_clear_second">Borrar</string>
     <string name="register_numbers">No puede dejar campos vacios</string>
+    <string name="message">No puedes agregar más puntos 😶</string>
 </resources>
